@@ -1,0 +1,1 @@
+Showcasing my proficiency in Discrete Mathematics, a prerequisite to branches of computer science, such as computer algorithms, programming languages, cryptography, automated theorem proving, and software development.
